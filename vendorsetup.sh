@@ -1,0 +1,3 @@
+add_lunch_combo lineage_zangya-eng
+add_lunch_combo lineage_zangya-user
+add_lunch_combo lineage_zangya-userdebug
